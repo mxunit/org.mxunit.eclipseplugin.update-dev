@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="org.mxunit.eclipseplugin.feature" version="0.0.0">
+      <category name="mxunit.category.id"/>
+   </feature>
+   <category-def name="mxunit.category.id" label="[Dev] Eclipse Plugin for MXUnit Unit Testing Framework (Required)">
+      <description>
+         [Dev] Eclipse Plugin for MXUnit Unit Testing Framework (Required)
+      </description>
+   </category-def>
+</site>
