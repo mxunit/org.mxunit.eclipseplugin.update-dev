@@ -43,7 +43,8 @@
 								<configuration>
 									<source>
 										<repository>
-											<url>http://mxunit.org/update${site.suffix}</url>
+                                            <!-- <url>http://mxunit.org/update${site.suffix}</url> -->
+                                            <url>http://cfeclipse.org/mxunit/update${site.suffix}</url>
 										</repository>
 									</source>
 									<destination>${project.build.directory}/repository</destination>
